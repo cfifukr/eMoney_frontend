@@ -1,0 +1,76 @@
+.custom-form{
+    margin: auto;
+    margin:5% auto;
+    background-color: #F3F4F6;
+    padding: 3rem;
+    border: 2px solid #A79B94;
+    border-radius: 1rem;
+
+
+}
+
+.custom-form .input{
+    margin: auto;
+    max-width: 60%;
+}
+
+.custom-form h3{
+    padding-bottom: 1rem;    
+
+}
+
+.custom-form .input-group{
+    width: 80%;
+    margin: auto;
+}
+
+.custom-form .input-button{
+    width: 50%;
+    margin: auto;
+    background-color: #689EB8;
+    border: 1px solid #5a879e;
+    z-index: 0;
+    
+}
+
+.privacy-text {
+    display: none;
+}
+
+.privacy:hover .privacy-text {
+    display: inline;
+}
+
+.custom-form .input-group-error{
+    width:80%;
+    margin: auto;
+    margin-bottom: 1rem;
+    padding: 0.5rem;
+}
+.custom-form .error-text{
+    font-size: medium;
+}
+
+.custom-form .input-button:hover{
+
+    background-color: #3a7998;
+    border: 1px solid #689EB8;
+}
+
+.custom-form .input-button:checked{
+
+    background-color: #3a7998;
+    border: 1px solid #689EB8;
+}
+
+.component-add-button{
+    border-color: #a79b9489;
+    background-color: #a79b9489;
+    color: #FFFFFF;
+}
+.component-add-button:hover, .component-add-button:active{
+    background-color: #8b807a !important; 
+}
+
+
+   
